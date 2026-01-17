@@ -19,3 +19,9 @@ git remote add origit enfloenfopwsndpiwlnfpilwnfopilenfopisnfdoi
 git remote -vw43q
 
 git push -u origin main
+
+prinft("witthaya jittphon")
+
+prinft("68040233105")
+
+git push
